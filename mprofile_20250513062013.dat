@@ -1,0 +1,5 @@
+FUNC __main__.create_big_list 23.0312 1747131613.9741 99.3438 1747131613.9828 0
+FUNC __main__.create_huge_list 99.3750 1747131613.9937 328.2656 1747131614.0218 0
+CMDLINE /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12 memory_intensive.py
+MEM 0.140625 1747131613.8960
+MEM 143.390625 1747131613.9992
